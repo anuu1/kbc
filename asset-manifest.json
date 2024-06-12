@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/kbc/static/css/main.e59ca5e1.css",
+    "main.js": "/kbc/static/js/main.4fb139bf.js",
+    "static/js/885.13493404.chunk.js": "/kbc/static/js/885.13493404.chunk.js",
+    "static/media/play.mp3": "/kbc/static/media/play.8e5f6d1d81d4e1414b95.mp3",
+    "static/media/correct.mp3": "/kbc/static/media/correct.160572d72c858155072e.mp3",
+    "static/media/wrong.mp3": "/kbc/static/media/wrong.e946821894ae9b0a0d6f.mp3",
+    "index.html": "/kbc/index.html",
+    "main.e59ca5e1.css.map": "/kbc/static/css/main.e59ca5e1.css.map",
+    "main.4fb139bf.js.map": "/kbc/static/js/main.4fb139bf.js.map",
+    "885.13493404.chunk.js.map": "/kbc/static/js/885.13493404.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e59ca5e1.css",
+    "static/js/main.4fb139bf.js"
+  ]
+}
